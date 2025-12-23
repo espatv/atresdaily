@@ -32,7 +32,6 @@
 - ✅ Búsqueda inteligente de contenido
 - ✅ Selección de calidad de vídeo
 - ✅ Sin publicidad ni trackers
-- ✅ Código abierto
 
 ---
 
@@ -59,10 +58,5 @@ Para consultas o reportar problemas: **938749237h@proton.me**
 
 ---
 
-## 📜 Licencia
-
-Este proyecto está licenciado bajo [GPL-2.0](LICENSE).
-
----
-
 *Addon creado por RubénSDFA1labernt*
+
