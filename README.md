@@ -19,10 +19,23 @@
 
 ## 📥 Instalación
 
-1. Descarga el archivo `plugin.video.atresdaily.zip` desde [Releases](../../releases)
-2. En Kodi, ve a **Ajustes → Addons → Instalar desde archivo zip**
-3. Selecciona el archivo descargado
-4. El addon aparecerá en **Addons → Addons de vídeo**
+### Opción 1: Desde el Administrador de Archivos de Kodi (Recomendado)
+Este es el método más sencillo ya que no requiere descargar archivos externos manualmente:
+
+1. Abre Kodi y ve a **Ajustes** (icono del engranaje).
+2. Entra en **Explorador de archivos** y selecciona **Añadir fuente**.
+3. Haz clic en `<Ninguno>` y escribe la siguiente dirección: `https://fullstackcurso.github.io/atresdaily/`
+4. Dale un nombre a la fuente (por ejemplo: `atresdaily`) y pulsa **OK**.
+5. Vuelve al menú principal, entra en **Add-ons** y haz clic en el icono de la **cajita abierta** (arriba a la izquierda).
+6. Selecciona **Instalar desde archivo zip**.
+   - *Nota: Si te sale un aviso de seguridad, ve a Ajustes y activa la opción "Orígenes desconocidos".*
+7. Selecciona la fuente `atresdaily` y elige el archivo `plugin.video.atresdaily-1.0.3.zip` (o la versión más reciente).
+8. Espera a que aparezca la notificación de "Add-on instalado".
+
+### Opción 2: Instalación manual mediante archivo ZIP
+1. Descarga el archivo `.zip` de la última versión desde la sección de **[Releases](../../releases)**.
+2. En Kodi, ve a **Add-ons > Icono de la cajita > Instalar desde archivo zip**.
+3. Busca en tu dispositivo el archivo descargado y selecciónalo para completar la instalación.
 
 ---
 
@@ -44,19 +57,16 @@
 
 ## ⚖️ Exención de responsabilidad
 
-El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas.
-
-El usuario es el único responsable de cumplir con las leyes de su país.
-
-Este addon se proporciona "tal cual", sin garantías de ningún tipo.
+El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas. El usuario es el único responsable de cumplir con las leyes de su país. Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 
 ---
 
-## 📧 Contacto
+## 💬 Contacto y Soporte
 
-Para consultas o reportar problemas: **938749237h@proton.me**
+Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto, puedes visitar:
+
+👉 **[Confirmación y Contacto](https://fullstackcurso.github.io/donaciones/#confirmar)**
 
 ---
 
-*Addon creado por RubénSDFA1labernt*
-
+*Addon desarrollado por fullstackcurso*
