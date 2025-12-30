@@ -86,11 +86,12 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 ## 🚀 Próximas mejoras (To-do)
 
 - [ ] Añadir más fuentes para aumentar los resultados y aciertos.
-- [ ] Que se muestren mas serires, películas...
+- [ ] Que se muestren mas series, películas...
 - [ ] Desarrollar versiones similares para **Mitele** y **RTVE**.
 
 ---
 
 *Addon desarrollado por fullstackcurso*
+
 
 
