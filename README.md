@@ -79,14 +79,14 @@ El desarrollador de este addon **NO se hace responsable** del uso que los usuari
 
 Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto, puedes visitar:
 
-👉 **[Confirmación y Contacto](https://fullstackcurso.github.io/donaciones/#confirmar)**
+👉 **[Donaciones y Contacto](https://fullstackcurso.github.io/donaciones/#confirmar)**
 
 ---
 
 ## 🚀 Próximas mejoras (To-do)
 
-- [ ] Añadir más fuentes externas para aumentar la tasa de resultados.
-- [ ] Optimizar el sistema de emparejamiento inteligente.
+- [ ] Añadir más fuentes para aumentar los resultados y aciertos.
+- [ ] Desarrollar versiones similares para **Mitele** y **RTVE**.
 
 ---
 
