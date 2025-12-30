@@ -79,7 +79,7 @@ El desarrollador de este addon **NO se hace responsable** del uso que los usuari
 
 Si quieres informar de algún problema, realizar una consulta o apoyar este proyecto, puedes visitar:
 
-👉 **[Donaciones y Contacto](https://fullstackcurso.github.io/donaciones/#confirmar)**
+👉 **[Donaciones y Contacto](https://fullstackcurso.github.io/donaciones/#mensaje)**
 
 ---
 
@@ -91,3 +91,4 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 ---
 
 *Addon desarrollado por fullstackcurso*
+
