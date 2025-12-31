@@ -92,8 +92,6 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 
 ---
 
-# Nota para los Gestores de Contenido y Derechos de Autor
-
 Este proyecto nace con la intención de **facilitar el acceso a la cultura audiovisual** y no de sustituir a los servicios oficiales. Cabe destacar que la gran mayoría de los enlaces encontrados por esta herramienta apuntan a contenidos de **baja resolución** (frecuentemente inferiores a 720p), lo que dista mucho de la experiencia *premium* que ofrecen las plataformas de pago.
 
 ### Publicidad y Marketing Orgánico
@@ -110,6 +108,7 @@ Finalmente, la presencia de estos archivos en la red cumple una función involun
 ___
 
 *Addon desarrollado por fullstackcurso*
+
 
 
 
