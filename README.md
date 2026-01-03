@@ -2,6 +2,22 @@
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
 
+# ⚠️ PROYECTO MIGRADO A ESPADAILY ⚠️
+
+> **[2026-01-03] AVISO IMPORTANTE:**
+> Este addon (**AtresDaily**) ha dejado de recibir actualizaciones y se considera **OBSOLETO**.
+>
+> Todas sus funciones (Series, Programas, Documentales de Atresplayer) han sido trasladadas y mejoradas en el nuevo addon **EspaDaily**, que unifica:
+> *   ✅ **Atresplayer**
+> *   ✅ **RTVE Play**
+> *   ✅ **Mediaset**
+> *   ✅ **Buscador Universal**
+>
+> 👉 **POR FAVOR, INSTALA EL NUEVO ADDON DESDE AQUÍ:**
+> **[https://github.com/fullstackcurso/espadaily](https://github.com/fullstackcurso/espadaily)**
+
+---
+
 ## 📺 Descripción
 
 **AtresDaily** es un addon para Kodi que te permite explorar el catálogo de Atresplayer y buscar vídeos coincidentes en internet. También permite buscar manualmente cualquier vídeo aunque no se encuentre en el catálogo y ver cosas antes de que se emitan.
@@ -108,6 +124,7 @@ Finalmente, la presencia de estos archivos en la red cumple una función involun
 ___
 
 *Addon desarrollado por fullstackcurso*
+
 
 
 
