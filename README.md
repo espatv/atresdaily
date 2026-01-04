@@ -1,12 +1,14 @@
 # AtresDaily - Addon para Kodi
 
-![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-brightgreen)
+![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Inactivo-lightgrey)
 
 # ⚠️ PROYECTO MIGRADO A ESPADAILY ⚠️
 
 > **[2026-01-03] AVISO IMPORTANTE:**
 > Este addon (**AtresDaily**) ha dejado de recibir actualizaciones y se considera **OBSOLETO**.
 >
+> El addon **sigue funcionando correctamente** para explorar el catálogo de Atresplayer y buscar contenido, pero todo el desarrollo futuro se centrará exclusivamente en el nuevo proyecto.
+> 
 > Todas sus funciones (Series, Programas, Documentales de Atresplayer) han sido trasladadas y mejoradas en el nuevo addon **EspaDaily**, que unifica:
 > *   ✅ **Atresplayer**
 > *   ✅ **RTVE Play**
@@ -124,6 +126,7 @@ Finalmente, la presencia de estos archivos en la red cumple una función involun
 ___
 
 *Addon desarrollado por fullstackcurso*
+
 
 
 
