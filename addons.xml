@@ -1,40 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
-    <addon id="repository.atresdaily" name="AtresDaily Repository" version="1.0.0" provider-name="RubénSDFA1labernt">
-        <extension point="xbmc.addon.repository" name="AtresDaily Repository">
-            <dir>
-                <info compressed="false">https://fullstackcurso.github.io/atresdaily/addons.xml</info>
-                <checksum>https://fullstackcurso.github.io/atresdaily/addons.xml.md5</checksum>
-                <datadir zip="true">https://fullstackcurso.github.io/atresdaily/</datadir>
-            </dir>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="es">Repositorio de AtresDaily</summary>
-            <description lang="es">Repositorio oficial para instalar y actualizar el addon AtresDaily.</description>
-            <platform>all</platform>
-            <assets>
-                <icon>icon.png</icon>
-                <fanart>fanart.png</fanart>
+<?xml version='1.0' encoding='UTF-8'?>
+<addons><addon id="repository.atresdaily" name="AtresDaily Repository" version="1.0.1" provider-name="RubenSDFA1labernt">
+    <extension point="xbmc.addon.repository" name="AtresDaily Repository">
+        <dir>
+            <info compressed="false">https://fullstackcurso.github.io/atresdaily/addons.xml</info>
+            <checksum>https://fullstackcurso.github.io/atresdaily/addons.xml.md5</checksum>
+            <datadir zip="true">https://fullstackcurso.github.io/atresdaily/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="es">Repositorio de AtresDaily</summary>
+        <description lang="es">Repositorio oficial para instalar y actualizar el addon AtresDaily.</description>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
             </assets>
-        </extension>
-    </addon>
-    <addon id="plugin.video.atresdaily" name="AtresDaily" version="1.0.3" provider-name="RubénSDFA1labernt">
-        <requires>
-            <import addon="xbmc.python" version="3.0.0"/>
-            <import addon="script.module.requests"/>
-        </requires>
-        <extension point="xbmc.python.pluginsource" library="default.py">
-            <provides>video</provides>
-        </extension>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="es">Explora contenido de Atresplayer</summary>
-            <description lang="es">Explora el catálogo de Atresplayer y busca vídeos en internet que coincidan. Este addon no aloja ningún contenido, solo actúa como buscador.</description>
-            <platform>all</platform>
-            <license>Proprietary</license>
-            <assets>
-                <icon>icon.png</icon>
-                <fanart>fanart.png</fanart>
-            </assets>
-        </extension>
-    </addon>
-</addons>
+    </extension>
+</addon><addon id="plugin.video.atresdaily" version="2.0.0" name="[B][COLOR white]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="AtresDaily">
+<requires>
+    <import addon="script.module.requests" />
+    <import addon="script.module.six" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	
+	<extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+		<summary lang="en">Cliente no oficial de Atresplayer</summary>
+		<description lang="en">Disfruta del contenido de Atresplayer con la potencia de AtresDaily. Búsquedas inteligentes y programación en directo.</description>
+		<disclaimer>Este addon no aloja contenido. Solo actúa como cliente web.</disclaimer>
+		<license>Proprietary - All Rights Reserved</license>
+		<platform>all</platform>
+<assets>
+        <icon>icon.png</icon>
+    </assets>        
+		<language>es</language>
+	</extension>
+</addon></addons>
