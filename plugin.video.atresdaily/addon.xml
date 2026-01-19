@@ -1,0 +1,23 @@
+<addon
+	id="plugin.video.atresdaily" version="2.0.0" name="[B][COLOR white]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="AtresDaily">
+<requires>
+    <import addon="script.module.requests" />
+    <import addon="script.module.six" />
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	
+	<extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+		<summary lang="en">Cliente no oficial de Atresplayer</summary>
+		<description lang="en">Disfruta del contenido de Atresplayer con la potencia de AtresDaily. Búsquedas inteligentes y programación en directo.</description>
+		<disclaimer>Este addon no aloja contenido. Solo actúa como cliente web.</disclaimer>
+		<license>Proprietary - All Rights Reserved</license>
+		<platform>all</platform>
+<assets>
+        <icon>icon.png</icon>
+    </assets>        
+		<language>es</language>
+	</extension>
+</addon>
