@@ -33,15 +33,9 @@
 <br>
 
 <p align="center">
-  <img src="capturas/screenshot1.png" width="600">
+  <img src="capturas/screenshot1.jpg" width="600">
   <br><br>
-  <img src="capturas/screenshot2.png" width="600">
-  <br><br>
-  <img src="capturas/screenshot3.png" width="600">
-  <br><br>
-  <img src="capturas/screenshot4.png" width="600">
-  <br><br>
-  <img src="capturas/screenshot5.png" width="600">
+  <img src="capturas/screenshot2.jpg" width="600">
 </p>
 
 ---
@@ -126,6 +120,7 @@ ___
   
   <sub>*Metrics are estimates. Download count reflects GitHub Releases only, not direct installations via Kodi.*</sub>
 </div>
+
 
 
 
