@@ -1,5 +1,5 @@
 <addon
-	id="plugin.video.atresdaily" version="2.0.0" name="[B][COLOR white]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="AtresDaily">
+	id="plugin.video.atresdaily" version="2.5.0" name="[B][COLOR white]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="AtresDaily">
 <requires>
     <import addon="script.module.requests" />
     <import addon="script.module.six" />
