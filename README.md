@@ -5,7 +5,7 @@
 
 ## 📺 Descripción
 
-**AtresDaily 2.0** es un puente entre Kodi y el catálogo de Αtrеsрlаyer. Adapta la información y el contenido de la web oficial para visualizarlo cómodamente en tu centro multimedia.
+**AtresDaily 2.5** es un puente entre Kodi y el catálogo de Αtrеsрlаyer. Adapta la información y el contenido de la web oficial para visualizarlo cómodamente en tu centro multimedia.
 
 ### 🔧 Características
 
@@ -120,6 +120,7 @@ ___
   
   <sub>*Metrics are estimates. Download count reflects GitHub Releases only, not direct installations via Kodi.*</sub>
 </div>
+
 
 
 
