@@ -15,7 +15,7 @@
             <icon>icon.png</icon>
             </assets>
     </extension>
-</addon><addon id="plugin.video.atresdaily" version="2.0.0" name="[B][COLOR white]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="AtresDaily">
+</addon><addon id="plugin.video.atresdaily" version="2.5.0" name="[B][COLOR white]Atres[COLOR aqua]Daily[/COLOR][/B]" provider-name="AtresDaily">
 <requires>
     <import addon="script.module.requests" />
     <import addon="script.module.six" />
