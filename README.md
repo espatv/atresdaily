@@ -71,6 +71,8 @@ Podrás encontrar el formulario de contacto en la página principal del proyecto
 
 👉 **[GitHub](https://github.com/fullstackcurso)**
 
+👉 **[GitHub Espakodi](https://github.com/espakodi)**
+
 👉 **[Canal de Telegram](https://t.me/espadaily)**
 
 👉 **[Telegram EspaKodi](https://t.me/espakodi)**
