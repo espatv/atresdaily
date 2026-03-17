@@ -7,7 +7,7 @@
 
 **AtresDaily** es un addon para Kodi centrado en el catálogo de Αtrеsрlаyer. Busca vídeos públicos disponibles en internet para cada contenido del catálogo.
 
-### 🔧 Características
+### Características
 
 - **Acceso Híbrido**: Reproduce directamente el contenido gratuito y ofrece la opción de buscar en internet cuando el contenido no está disponible
 - **Gratuito y Seguro**: Sin registro obligatorio, sin publicidad, sin software malicioso
