@@ -107,7 +107,6 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 - **Solo Interfaz**: El código aquí presente solo dibuja los menús; los vídeos vienen de conexiones externas.
 - **Voluntad de Cooperación**: Disposición total para colaborar con los titulares de derechos para la retirada inmediata de enlaces específicos.
 - **Prohibición Estricta de Comercialización**: Queda terminantemente **PROHIBIDA** la inclusión, distribución o instalación pre-configurada de este addon en dispositivos ("TV Boxes", "Kodi Boxes", Android TV, etc.) destinados a la venta o lucro comercial. Este proyecto no tiene fines de lucro ni genera ingresos de ninguna clase.
-- **Naturaleza del Software**: El addon funciona estrictamente como un rastreador/motor de búsqueda automatizado de la web pública (Web Crawler/Scraper). Todo el contenido mostrado es extraído en tiempo real de sitios web de terceros, sobre los cuales los desarrolladores de este addon no tienen ningún tipo de acceso, control o afiliación.
 - **Sin Afiliación**: Este proyecto es independiente y no está afiliado ni avalado de ninguna manera por el equipo de Kodi o la Fundación XBMC.
 
 ---
