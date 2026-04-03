@@ -89,14 +89,6 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 - No requiere dependencias complejas
 
 ---
-
-### ⚠️ Aviso sobre Publicaciones y Crecimiento
-
-- Los autores de AtresDaily **no desean** que se publiquen artículos, reseñas o tutoriales en blogs, periódicos digitales, revistas online, YouTube, Twitter/X, Facebook, Reddit, foros públicos ni TikTok u otros medios indexados sin autorización expresa.
-- Este proyecto crece por recomendación directa entre usuarios.
-- Te invitamos a compartir este addon con tus amigos y familiares, y a unirte a nuestra comunidad en Telegram, pero rogamos encarecidamente que no se le dé publicidad en medios masivos ni redes sociales abiertas.
-- En este caso concreto preferimos un crecimiento orgánico y manejable.
-- Esta petición es específica por la fragilidad de este proyecto. En cualquiera de nuestros otros Addons (excepto Espadaily) la difusión pública no supone ningún problema.
   
 ### 📜 Puntos Clave del Aviso Legal
 
