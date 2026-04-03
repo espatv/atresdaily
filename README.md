@@ -103,7 +103,7 @@ Si quieres informar de algún problema, realizar una consulta o apoyar este proy
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido.
 - Conforme a la jurisprudencia europea (Caso Svensson), enlazar a contenidos ya disponibles públicamente en la red no constituye una nueva comunicación al público.
 - Uso de marcas comerciales solo con fines **informativos** (Fair Use), sin afiliación oficial.
-- **Sin ánimo de lucro**: Gratuito, sin publicidad. Solo un identificador anónimo para contar instalaciones.
+- **Sin ánimo de lucro**: Gratuito, sin publicidad. Solo se envía información anónima de la versiónd e Kodi, el addon y sistema operativo para organizar el desarrollo, no hay ningún interés en obtener datos personales.
 - El usuario es el único responsable de cumplir con las leyes de su jurisdicción.
 - **Solo Interfaz**: El código aquí presente solo dibuja los menús; los vídeos vienen de conexiones externas.
 - **Voluntad de Cooperación**: Disposición total para colaborar con los titulares de derechos para la retirada inmediata de enlaces específicos.
