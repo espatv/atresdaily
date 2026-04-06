@@ -23,10 +23,6 @@
 - Funciona como un **buscador** que localiza contenidos ya disponibles públicamente en la red, sin saltarse ningún muro de pago.
 - El desarrollador de este addon **NO se hace responsable** del uso que los usuarios hagan del mismo, ni del contenido que puedan encontrar a través de las búsquedas. El usuario es el único responsable de cumplir con las leyes de su país. Este addon se proporciona "tal cual", sin garantías de ningún tipo.
 
-<br>
-
----
-
 ## 📥 Instalación
 
 ### Opción 1: Desde el Administrador de Archivos de Kodi (Recomendado)
