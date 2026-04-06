@@ -46,7 +46,7 @@ Este es el método más sencillo ya que no requiere descargar archivos externos 
 2. En Kodi, ve a **Add-ons > Icono de la cajita > Instalar desde archivo zip**.
 3. Busca en tu dispositivo el archivo descargado y selecciónalo para completar la instalación.
 
-> ⚠️ **Primer Inicio:** Al abrir el addon por primera vez, verás un aviso legal (**cuyos puntos clave puedes consultar más abajo**). Para activarlo, **es obligatorio escribir la palabra "ACEPTAR"** (sin comillas). Sin este paso, el código permanecerá bloqueado y no realizará ninguna función.
+> ⚠️ **Primer Inicio:** Al abrir el addon por primera vez, verás un aviso legal (**cuyos puntos clave puedes consultar más abajo**). Para activarlo, **es obligatorio escribir la palabra "aceptar"** (sin comillas). Sin este paso, el código permanecerá bloqueado y no realizará ninguna función.
 
 ## Contacto y Soporte
 
