@@ -12,7 +12,7 @@
 - **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores
 - **Privacidad Responsable**: No se recopilan datos personales.
 
-### 📜 Puntos Clave del Aviso Legal
+### Puntos Clave del Aviso Legal
 
 - Este software actúa como un **puente** entre Kodi y webs públicas, sin alojar contenido ni distribuir contenido protegido.
 - Funciona como un **buscador** que localiza contenidos ya disponibles públicamente en la red, sin saltarse ningún muro de pago.
