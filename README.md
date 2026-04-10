@@ -4,13 +4,13 @@
 
 ### Características
 
-- **Gratuito y Seguro**: Sin registro obligatorio, sin publicidad, sin software malicioso
-- **Velocidad Extrema**: Sistema de caché inteligente para una navegación instantánea
-- **Gestión total**: Sistema propio de Favoritos y Copias de Seguridad (Backups)
-- **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente
-- **Categorías Personalizadas**: Crea tus propias carpetas para organizar el contenido
-- **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores
-- **Privacidad Responsable**: No se recopilan datos personales.
+- **Gratuito y Seguro**: Sin registro obligatorio, sin publicidad, sin software malicioso.
+- **Velocidad Extrema**: Sistema de caché inteligente para una navegación instantánea.
+- **Gestión total**: Sistema propio de Favoritos y Copias de Seguridad (Backups).
+- **Historial de Exploración**: Recuerda lo que has visto para retomarlo fácilmente.
+- **Categorías Personalizadas**: Crea tus propias carpetas para organizar el contenido.
+- **Historial de Búsqueda**: Accede rápidamente a tus búsquedas anteriores.
+- **Privacidad Responsable**: No se recopilan datos personales..
 
 ### Puntos Clave del Aviso Legal
 
