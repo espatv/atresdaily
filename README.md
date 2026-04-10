@@ -5,7 +5,7 @@
 ### Características
 
 - **Gratuito y Seguro**: Sin registro obligatorio, sin publicidad, sin software malicioso.
-- **Privacidad Responsable**: No se recopilan datos personales..
+- **Privacidad Responsable**: No se recopilan datos personales.
 
 ### Puntos Clave del Aviso Legal
 
