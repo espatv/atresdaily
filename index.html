@@ -1,19 +1,163 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
 <head>
-    <title>AtresDaily Repository</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>AtresDaily - Notas</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 750px;
+            margin: 2em auto;
+            padding: 0 1em;
+            line-height: 1.7;
+            color: #222;
+            background: #fafafa
+        }
+
+        h1 {
+            margin-bottom: .2em
+        }
+
+        h2 {
+            margin-top: 2em;
+            border-bottom: none;
+            padding-bottom: .3em
+        }
+
+        h3 {
+            margin-top: 1.5em;
+            color: #444
+        }
+
+        code {
+            background: #eee;
+            padding: .15em .4em;
+            border-radius: 3px;
+            font-size: .95em
+        }
+
+        .warn {
+            background: #fff8e1;
+            border-left: 3px solid #f9a825;
+            padding: .8em 1em;
+            margin: 1em 0;
+            font-size: .93em
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid #ddd;
+            margin: 2em 0
+        }
+
+        li {
+            margin-bottom: .6em
+        }
+
+        .legal {
+            background: #f5f5f5;
+            border: 1px solid #e0e0e0;
+            border-radius: 6px;
+            padding: 1.2em 1.5em;
+            margin-top: 1em
+        }
+
+        .legal li {
+            margin-bottom: .8em;
+            font-size: .95em;
+            color: #333
+        }
+
+        .legal strong {
+            color: #111
+        }
+
+        a {
+            color: #1a73e8
+        }
+    </style>
 </head>
 
 <body>
-    <h1>Index of /atresdaily/</h1>
-    <hr>
-    <pre>
-<a href="repository.atresdaily-1.0.1.zip">repository.atresdaily-1.0.1.zip</a>
-<a href="addons.xml">addons.xml</a>
-<a href="addons.xml.md5">addons.xml.md5</a>
-    </pre>
-    <hr>
+
+    <h1 style="font-family: 'Times New Roman', Times, serif; font-weight: bold; margin-bottom: 0.5em; color: #000;">Index of /atresdaily/</h1>
+
+    <p style="font-family: monospace; font-size: 1.1em; line-height: 1.3; margin: 10px 0;">
+        <a href="repository.atresdaily-1.0.1.zip" style="color: blue; text-decoration: underline;">repository.atresdaily-1.0.1.zip</a><br>
+        <a href="addons.xml" style="color: blue; text-decoration: underline;">addons.xml</a><br>
+        <a href="addons.xml.md5" style="color: blue; text-decoration: underline;">addons.xml.md5</a><br>
+    </p>
+
+
+    <h2>AtresDaily</h2>
+    <p>Apuntes y recordatorios sobre cómo montar el entorno de pruebas del addon en mi Kodi local. Lo dejo aquí por si
+        me olvido o le sirve a alguien que esté trasteando con el código.<br><br>
+        Contacto para dudas técnicas sobre este software: <b>https://espatv.github.io</b></p>
+
+
+
+    <h2>Cómo lo instalo en mi Kodi</h2>
+
+    <h3>Forma rápida (la que uso yo)</h3>
+    <ol>
+        <li>En Kodi: <b>Ajustes</b> → <b>Explorador de archivos</b> → <b>Añadir fuente</b>.</li>
+        <li>En <code>&lt;Ninguno&gt;</code> pongo esta dirección exacta:<br><br>
+            <b><code>https://espatv.github.io/atresdaily/</code></b>
+            <div class="warn">Ojo: tiene que terminar en <code>.io/atresdaily/</code>. Si copio la URL del navegador
+                (la de github.com) me sale la carpeta vacía, ya me ha pasado.</div>
+        </li>
+        <li>Le pongo de nombre <code>atresdaily</code> y OK.</li>
+        <li>Voy a <b>Add-ons</b> → <b>cajita abierta</b> (arriba a la izquierda) → <b>Instalar desde archivo
+                zip</b>.<br>
+            <small>(Si salta el aviso de seguridad: Ajustes → activar "Orígenes desconocidos").</small>
+        </li>
+        <li>Selecciono la fuente <code>atresdaily</code> → <code>repository.atresdaily-1.0.1.zip</code>.</li>
+        <li>Cuando me sale "Add-on instalado", voy a <b>Instalar desde repositorio</b> → <b>AtresDaily Repository</b> →
+            <b>Add-ons de vídeo</b> → <b>AtresDaily</b> → Instalar.
+        </li>
+    </ol>
+
+    <h3>Alternativa con ZIP</h3>
+    <ol>
+        <li>Bajo el <code>.zip</code> de https://github.com/espatv/atresdaily/releases</li>
+        <li>En Kodi: <b>Add-ons</b> → <b>cajita</b> → <b>Instalar desde archivo zip</b> → lo busco y listo.</li>
+    </ol>
+
+
+
+    <h2>Características</h2>
+    <ul>
+        <li><b>Gratuito:</b> Sin registro obligatorio, sin publicidad, sin ánimo de
+            lucro.</li>
+        <li><b>Privacidad Responsable:</b> No se recopilan datos personales.</li>
+    </ul>
+
+    <h2>Qué es y qué no es esto</h2>
+    <div class="legal">
+        <ul>
+            <li>Este software actúa como un puente entre Kodi y webs públicas, sin alojar contenido ni distribuir
+                contenido protegido.</li>
+            <li>Funciona como un buscador que localiza contenidos ya disponibles públicamente en la red, sin saltarse
+                ningún muro de pago.</li>
+            <li>Conforme a la jurisprudencia europea <strong>(Caso Svensson)</strong>, enlazar a contenidos ya
+                disponibles públicamente en la red no constituye una nueva comunicación al público.</li>
+            <li>Uso de marcas comerciales solo con fines informativos <strong>(Fair Use)</strong>, sin afiliación
+                oficial.</li>
+            <li><strong>Creado para ser sin ánimo de lucro y sin recopilación de datos personales.</strong></li>
+            <li>El usuario es el único responsable de cumplir con las leyes de su jurisdicción.</li>
+            <li><strong>Solo Interfaz:</strong> El código aquí presente solo dibuja los menús; los vídeos vienen de
+                conexiones externas.</li>
+            <li><strong>Prohibición Estricta de Comercialización:</strong> Queda terminantemente PROHIBIDA la inclusión,
+                distribución o instalación pre-configurada de este addon en dispositivos ("TV Boxes", "Kodi Boxes",
+                Android TV, etc.) destinados a la venta o lucro comercial. Este proyecto no tiene fines de lucro ni
+                genera ingresos de ninguna clase.</li>
+            <li><strong>Sin Afiliación:</strong> Este proyecto es independiente y no está afiliado ni avalado de ninguna
+                manera por el equipo de Kodi o la Fundación XBMC.</li>
+        </ul>
+    </div>
+
 </body>
 
 </html>
