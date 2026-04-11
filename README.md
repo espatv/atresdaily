@@ -2,6 +2,8 @@
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-green)
 
+https://fullstackcurso.github.io/atresdaily/
+
 ### Características
 
 - **Gratuito y Seguro**: Sin registro obligatorio, sin publicidad, sin software malicioso, sin ánimo de lucro.
