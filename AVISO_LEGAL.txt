@@ -1,0 +1,61 @@
+AVISO LEGAL Y DESCARGO DE RESPONSABILIDAD. LEA ESTE DOCUMENTO DETENIDAMENTE ANTES DE UTILIZAR EL SOFTWARE.
+
+NATURALEZA TÉCNICA Y OBJETO
+Este software ("AtresDaily") es una herramienta que actúa como interfaz de presentación entre Kodi y plataformas de contenido audiovisual, adaptando para este entorno multimedia información y referencias procedentes de contenido accesible públicamente en las mismas condiciones técnicas en que lo haría cualquier navegador web convencional.
+
+AUSENCIA DE ALOJAMIENTO Y DISTRIBUCIÓN
+En relación al funcionamiento técnico del software, se hace constar expresamente que:
+ a) Este software NO contiene, almacena, distribuye, comunica públicamente ni aloja ningún archivo de vídeo, audio o material audiovisual protegido por derechos de autor en sus propios servidores ni en el código distribuido.
+ b) Todo el contenido reproducido a través del software es transmitido directamente ("Direct Stream") desde los servidores de los legítimos propietarios o plataformas de alojamiento de terceros hacia el dispositivo del usuario final. El Addon actúa meramente como un índice o referenciador de contenidos.
+
+POLÍTICA DE ENLACES Y ACCESO PÚBLICO
+El funcionamiento del Addon consiste en detectar, indexar y adaptar para Kodi información y referencias procedentes de contenido al que se accede en las mismas condiciones técnicas en que lo haría cualquier navegador web convencional, actuando exclusivamente como interfaz de presentación y no como proveedor ni distribuidor del contenido.
+De conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea:
+Caso C-466/12 “Svensson” (2014): el suministro de enlaces a obras libremente accesibles en otra página web no constituye, en determinadas circunstancias, una comunicación a un público nuevo.
+Caso C-160/15 “GS Media” (2016): la licitud del enlace debe valorarse atendiendo, entre otros factores, a si la persona que enlaza conocía o podía conocer razonablemente el carácter no autorizado del contenido enlazado y a la existencia o no de ánimo de lucro.
+Caso C-392/19 "VG Bild-Kunst" (2021): el TJUE precisó que la incrustación de contenido protegido puede constituir comunicación al público cuando se eluden medidas restrictivas adoptadas por el titular. Este supuesto no es aplicable al presente software, dado que el contenido al que da acceso no está protegido por ninguna medida técnica de restricción, siendo libremente accesible por cualquier usuario sin necesidad de autenticación.
+De conformidad con el Art. 17 de la Ley 34/2002 de Servicios de la Sociedad de la Información (LSSI-CE), el prestador de servicios de enlace o indexación no será responsable por los contenidos enlazados cuando no tenga conocimiento efectivo de su ilicitud o, teniéndolo, actúe con diligencia para retirar o inutilizar el enlace.
+Este software no elude muros de pago ni sistemas de autenticación.
+
+PROPIEDAD INTELECTUAL Y MARCAS
+Todas las marcas comerciales, logotipos, carátulas y nombres (incluyendo "Atresplayer", "Atresmedia", "Dailymotion") son propiedad exclusiva de sus respectivos dueños.
+Su uso en este software es estrictamente nominativo e informativo, amparado bajo el uso nominativo descriptivo permitido por el Art. 37.c) de la Ley de Marcas 17/2001, siendo dicho uso necesario para que el usuario identifique el contenido al que accede, y realizado conforme a las prácticas leales en materia industrial o comercial, sin sugerir patrocinio, afiliación ni endorsement por parte de los titulares. Este proyecto es una obra derivada independiente, sin ánimo de lucro, y NO tiene ninguna vinculación, patrocinio, afiliación ni autorización oficial de Atresmedia Corporación ni de Dailymotion.
+
+RESPONSABILIDAD DEL USUARIO FINAL Y TÉRMINOS DE TERCEROS
+El usuario reconoce y acepta que:
+ a) Es el único responsable de asegurar que su acceso al contenido cumple con las leyes de su jurisdicción local y con los Términos de Servicio (TOS) de las plataformas de origen.
+ b) El uso de mecanismos para eludir restricciones geográficas (VPN, Proxies) es una decisión exclusiva del usuario, el usuario asume la responsabilidad de su uso.
+
+c) CUMPLIMIENTO DE TÉRMINOS DE TERCEROS: Este software es una herramienta independiente y no oficial. El usuario es el único responsable de revisar, conocer y cumplir los Términos de Servicio (TOS) de cada plataforma de contenido a la que acceda a través de este software, así como la normativa aplicable en su jurisdicción. El desarrollador no realiza ningún juicio previo sobre la compatibilidad de este software con dichos términos, cuestión cuya valoración corresponde exclusivamente al usuario y, en su caso, a los tribunales competentes.
+
+PRIVACIDAD Y DATOS (GDPR)
+Este software no recopila datos personales identificables del usuario. No se utilizan servicios analíticos de terceros ni rastreadores de navegación.
+Con el único fin de mejorar el software, planificar su desarrollo y dimensionar los recursos necesarios, se tiene interés en conocer la plataforma, versión del addon y versión de Kodi para generar estadísticas. La base jurídica de este tratamiento es el interés legítimo del desarrollador (Art. 6.1.f RGPD) en la mejora y mantenimiento del software. Esta información no está vinculada a ningún dato personal, dirección IP, hábito de uso ni contenido reproducido, por lo que el desarrollador no puede asociar estos datos a ningún usuario en particular.
+Cualquier otra interacción de red (cookies, IPs) se realiza directamente entre el dispositivo del usuario y los servidores del proveedor de contenido, sujeta a las políticas de privacidad de dichos proveedores.
+
+LICENCIA
+El código fuente público de este proyecto se distribuye como software libre (GPL-2.0-or-later). Se permite su uso, estudio y distribución siempre que se mantenga la atribución al autor original y este aviso legal.
+
+EXENCIÓN DE GARANTÍAS
+El software se proporciona "TAL CUAL" (AS IS), sin garantías de ningún tipo.
+
+AUSENCIA DE ÁNIMO DE LUCRO
+Se declara explícitamente que este proyecto es una iniciativa de desarrollo de software amateur y educativo, totalmente gratuita y sin fines comerciales.
+ a) El software NO contiene publicidad pagada, banners, ni sistemas de monetización.
+ b) El desarrollador NO recibe ingresos directos ni indirectos por la distribución o uso de este software.
+ c) Las donaciones, si las hubiera, son estrictamente voluntarias, no vinculantes al acceso del software, y destinadas exclusivamente a cubrir costes de desarrollo y mantenimiento.
+ d) NO se comercializan datos de usuarios con terceros.
+
+ARQUITECTURA Y ALCANCE DEL CÓDIGO DISTRIBUIDO
+El código fuente público de este proyecto constituye exclusivamente la capa de interfaz de usuario para Kodi. La eventual obtención de metadatos, referencias de catálogo o recursos necesarios para la reproducción desde servicios de terceros depende de módulos o scripts externos, no incluidos en el repositorio público ni distribuidos como parte del código fuente principal.
+
+Los módulos conectores externos no forman parte del código fuente público de este proyecto, no se distribuyen ni mantienen por el autor en dicho repositorio y su funcionamiento queda fuera de su control directo. Su obtención, instalación y uso corresponde exclusivamente al usuario final, sin perjuicio de las responsabilidades que puedan derivarse de la normativa aplicable.
+Por sí solo, el código fuente público no incorpora lógica de extracción de catálogo ni módulos de acceso a servicios de terceros; cualquier funcionalidad de esa naturaleza depende de componentes externos ajenos al repositorio público.
+
+CONTACTO PARA TITULARES DE DERECHOS
+Si usted es titular de derechos de propiedad intelectual y considera que algún elemento de este software pudiera afectar a sus derechos, le invitamos a contactar con el autor a través de los canales de contacto habilitados en el repositorio oficial antes de iniciar cualquier procedimiento formal, en la convicción de que cualquier discrepancia puede resolverse de forma ágil y amistosa.
+En su comunicación, le rogamos identifique con precisión el elemento concreto del código fuente que considera problemático y el derecho que estima vulnerado, de modo que el autor pueda analizar la situación y, si procede, adoptar las medidas correctoras oportunas.
+Existe voluntad total de cooperación.
+
+
+Última actualización: abril 2026
