@@ -2,7 +2,7 @@
 
 ![Kodi](https://img.shields.io/badge/Kodi-19%2B-blue?logo=kodi) ![Status](https://img.shields.io/badge/Estado-Activo-green)
 
-Repositorio: https://fullstackcurso.github.io/atresdaily/
+Repositorio: https://espatv.github.io/atresdaily/
 
 ### Verificación de integridad (v2.7.0):
 
